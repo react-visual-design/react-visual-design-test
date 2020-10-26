@@ -3522,7 +3522,7 @@ ansicolors@~0.3.2:
   resolved "https://registry.npm.taobao.org/ansicolors/download/ansicolors-0.3.2.tgz#665597de86a9ffe3aa9bfbe6cae5c6ea426b4979"
   integrity sha1-ZlWX3oap/+Oqm/vmyuXG6kJrSXk=
 
-antd-mobile@^2.3.1:
+antd-mobile@^2.3.1, antd-mobile@^2.3.3:
   version "2.3.4"
   resolved "https://registry.npm.taobao.org/antd-mobile/download/antd-mobile-2.3.4.tgz?cache=0&sync_timestamp=1600412345582&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fantd-mobile%2Fdownload%2Fantd-mobile-2.3.4.tgz#8f584707b30343d102f3ca10fdaf677e2a5d1cc8"
   integrity sha1-j1hHB7MDQ9EC88oQ/a9nfipdHMg=
@@ -12731,6 +12731,13 @@ react-tween-state@^0.1.5:
   dependencies:
     raf "^3.1.0"
     tween-functions "^1.0.1"
+
+react-visual-design-components@^0.0.8:
+  version "0.0.8"
+  resolved "https://registry.npm.taobao.org/react-visual-design-components/download/react-visual-design-components-0.0.8.tgz#1fcdfb7280fc2107f65da5b3fde6a2787ef329b7"
+  integrity sha1-H837coD8IQf2XaWz/eaieH7zKbc=
+  dependencies:
+    antd-mobile "^2.3.3"
 
 react@^16.12.0, react@^16.13.1:
   version "16.14.0"
